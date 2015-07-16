@@ -1,0 +1,7 @@
+1. Install sqlite cli:
+https://www.sqlite.org/2015/sqlite-shell-win32-x86-3081002.zip
+
+2. Initialize the DB (it uses the cli):
+run initialize_db.bat
+
+3. Now you can use the db_utils.py to query from the db or to add new values.
